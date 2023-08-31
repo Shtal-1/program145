@@ -21,7 +21,6 @@ class Number
             cout<<"Value is : "<<this->iNo<<endl;
         }
 
-        // Add function here with the the logic
 };
 
 int main()
